@@ -1,1 +1,10 @@
 client_id.json
+node_modules/
+*.map
+*.log
+.idea/
+*.iml
+typings/
+dist/
+out/
+build/
